@@ -1,3 +1,7 @@
+pgAdmin File Path
+#C:\Program Files\PostgreSQL\15\bin\pg_dump.exe --file "C:\\Users\\jillf\\OneDrive\\DOCUME~1\\EMPLOY~1" --host "localhost" --port "5432" --username "postgres" --no-password --verbose --format=p --schema-only "employee_db"
+
+
 # Unit 9 Homework: Employee Database
 
 ## Background
